@@ -11,10 +11,10 @@ The system captures frames from a webcam feed, applies pre-processing, and uses 
 3. layers.py: This is a Python script that contains a custom TensorFlow layer for computing the L1 distance. This layer is used in the Siamese Network model.
 
 ## Prerequisites
-Python 3.7 or later.
-TensorFlow 2.5.0 or later.
-Kivy 2.0.0 or later.
-OpenCV 4.5.2 or later.
+Python 3.7 or later.  
+TensorFlow 2.5.0 or later.  
+Kivy 2.0.0 or later.  
+OpenCV 4.5.2 or later.  
 NumPy.
 
 ## Installation
